@@ -1,7 +1,7 @@
 # norm-extinction-review
 
-Anonymous review snapshot: code and data for "The half-life of a social norm:
-decay after enforcement removal in artificial agents" (author identity
+Anonymous review snapshot: code and data for "Arbitrary is not a natural kind:
+discipline without the disciplined" (author identity
 withheld for peer review).
 
 ## Contents
