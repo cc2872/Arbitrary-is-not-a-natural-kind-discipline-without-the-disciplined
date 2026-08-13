@@ -37,8 +37,3 @@ withheld for peer review).
 ## License
 
 CC BY 4.0, see `LICENSE`.
-
-## Citation
-
-"The half-life of a social norm: decay after enforcement removal in
-artificial agents." (2026). Citation withheld for anonymous review.
