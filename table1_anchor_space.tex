@@ -1,0 +1,29 @@
+% Table 1 -- The anchor space (pre-registered knockout matrix).
+% Four anchors: three established (computed), shibboleth predicted (stretch row).
+% Endpoint persistence (ghost-end gap, flagship N=12) shown for the established rows.
+% Structure is diagonal: each anchor dies to a DIFFERENT column and survives the others.
+\begin{table*}[t]
+\centering
+\small
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{@{}l l c c l@{}}
+\toprule
+\textbf{Anchor} & \textbf{What holds it up} & \textbf{Enforcement} & \textbf{Own grounding} & \textbf{Collapse shape} \\
+ & & \textbf{removed (ghost)} & \textbf{removed} & \\
+\midrule
+Environmental\,$^{\bullet}$      & external payoff cost on the act    & persists ($+0.23$) & decays (hazard off)       & monotone, no tip \\
+Coordination\,$^{\bullet}$       & payoff from matching others        & \textbf{persists} ($+0.20$) & decays (returns flattened) & sharp, hysteretic (critical mass) \\
+Pure vestige\,$^{\bullet}$       & nothing --- enforcement only       & \textbf{decays} ($+0.01$)   & --- (nothing to remove)   & monotone, no critical point \\
+Shibboleth\,$^{\circ}$           & in-group signalling benefit        & persists if interaction live & decays (group structure removed) & bistable by group \\
+\bottomrule
+\end{tabular}
+\caption{\textbf{The anchor space.} Four norms that are behaviorally indistinguishable at
+rest, each defined operationally by \emph{which grounding channel, when removed, kills it}.
+The pattern is diagonal: every anchor dies to a different column and survives the others.
+$^{\bullet}$~established (computed; endpoint persistence, ghost-end gap at $N{=}12$, in
+parentheses). $^{\circ}$~predicted (stretch row; requires a pairwise-interaction gate the
+substrate does not yet implement). The empty ``own grounding'' cell for pure vestige is not
+a gap --- having nothing to remove but enforcement \emph{is} the definition of a vestige.}
+\label{tab:anchor_space}
+\end{table*}
